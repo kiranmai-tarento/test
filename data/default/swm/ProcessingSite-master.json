@@ -1,0 +1,39 @@
+{
+  "tenantId": "default",
+  "moduleName": "swm",
+  "mdms-config": [
+    {
+      "masterName": "ProcessingSite",
+      "moduleDefinition": "https://raw.githubusercontent.com/egovernments/egov-services/master/docs/swm/contract/v1-0-0.yml#/definitions/ProcessingSite",
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    }
+  ],
+  "ProcessingSite": [
+    {
+      "code": "Pro. Plant Code 1",
+      "tenantId": "default",
+      "name": "Fake Pro. Plant 1",
+      "siteDetails": {
+        "area": 0.025,
+        "capacity": 6.4,
+        "address": "Fake Address",
+        "latitude": 0,
+        "longitude": 0,
+        "mpcbAuthorisation": true,
+        "bankGuarantee": false,
+        "bankValidityFrom": "1509190483",
+        "bankValidityTo": "1509190483",
+        "wasteTypes": [
+          {
+            "tenantId": "default",
+            "name": "Wet Waste",
+            "code": "Waste Type Code 2"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "tenantId": "default",
+  "moduleName": "swm",
+  "mdms-config": [
+    {
+      "masterName": "WasteSubType",
+      "moduleDefinition": "https://raw.githubusercontent.com/egovernments/egov-services/master/docs/swm/contract/v1-0-0.yml#/definitions/WasteSubType",
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    }
+  ],
+  "WasteSubType": [
+    {
+      "tenantId": "default",
+      "name": "Household Waste",
+      "code": "Waste  Sub Type Name 1",
+      "wasteType": "Waste Type Code 1"
+    },
+    {
+      "tenantId": "default",
+      "name": "Household Waste",
+      "code": "Waste  Sub Type Name 2",
+      "wasteType": "Waste Type Code 1"
+    },
+    {
+      "tenantId": "default",
+      "name": "Slaughterhouse Waste",
+      "code": "Waste  Sub Type Name 3",
+      "wasteType": "Waste Type Code 2"
+    },
+    {
+      "tenantId": "default",
+      "name": "Market Waste",
+      "code": "Waste  Sub Type Name 4",
+      "wasteType": "Waste Type Code 2"
+    },
+    {
+      "tenantId": "default",
+      "name": "Hospital waste",
+      "code": "Waste Sub Type Code 1",
+      "wasteType": "Medical Wate"
+    }
+  ]
+}
