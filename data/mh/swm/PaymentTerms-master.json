@@ -1,0 +1,36 @@
+{
+  "tenantId": "default",
+  "moduleName": "swm",
+  "mdms-config": [
+    {
+      "masterName": "PaymentTerms",
+      "moduleDefinition": "https://raw.githubusercontent.com/egovernments/egov-services/master/docs/swm/contract/v1-0-0.yml#/definitions/PaymentTerms",
+      "uniqueKeys": [
+        "$.label",
+        "$.tenantId"
+      ]
+    }
+  ],
+  "PaymentTerms": [
+    {
+      "tenantId": "default",
+      "noOfDays": 30,
+      "label": "Monthly"
+    },
+    {
+      "tenantId": "default",
+      "noOfDays": 60,
+      "label": "Bi-monthly"
+    },
+    {
+      "tenantId": "default",
+      "noOfDays": 90,
+      "label": "Quarterly"
+    },
+    {
+      "tenantId": "default",
+      "noOfDays": 365,
+      "label": "Yearly"
+    }
+  ]
+}

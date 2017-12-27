@@ -1,0 +1,24 @@
+{
+  "tenantId": "default",
+  "moduleName": "swm",
+  "mdms-config": [
+    {
+      "masterName": "Population",
+      "moduleDefinition": "https://raw.githubusercontent.com/egovernments/egov-services/master/docs/swm/contract/v1-0-0.yml#/definitions/Population",
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    }
+  ],
+  "Population": [
+    {
+      "code": "Trimbak MC Code",
+      "tenantId": "default",
+      "censusYear": 2011,
+      "population": 13383,
+      "garbageToBeCollected": 5,
+      "ulbName": "Trimbak Muncipal Council"
+    }
+  ]
+}
