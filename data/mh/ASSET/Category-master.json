@@ -1,5 +1,5 @@
 {
-  "tenantId": "default",
+  "tenantId": "mh",
   "moduleName": "ASSET",
   "mdms-config": [
     {
@@ -13,7 +13,7 @@
   ],
  "AssetCategory": [
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 2,
         "name": "Infrastructure assets",
         "code": "002",
@@ -32,7 +32,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 3,
         "name": "Plant and Machinery",
         "code": "003",
@@ -51,7 +51,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 4,
         "name": "Electrical Installations",
         "code": "004",
@@ -70,7 +70,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 12,
         "name": "Roads and Bridges",
         "code": "012",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 13,
         "name": "Drainage",
         "code": "013",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 14,
         "name": "Water Ways",
         "code": "014",
@@ -382,7 +382,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 15,
         "name": "Water Treatment Plant",
         "code": "015",
@@ -426,7 +426,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 16,
         "name": "Generator Plan",
         "code": "016",
@@ -445,7 +445,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 17,
         "name": "Public Lighting",
         "code": "017",
@@ -464,7 +464,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 18,
         "name": "Commercial Vehicles",
         "code": "018",
@@ -483,7 +483,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 19,
         "name": "Other Vehicles",
         "code": "019",
@@ -502,7 +502,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 20,
         "name": "Office Equipment’s, computers and peripherals",
         "code": "020",
@@ -521,7 +521,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 21,
         "name": "Furniture and Fixtures",
         "code": "021",
@@ -565,7 +565,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 22,
         "name": "Intangible Assets",
         "code": "022",
@@ -584,7 +584,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 23,
         "name": "Buses",
         "code": "023",
@@ -603,7 +603,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 24,
         "name": "Dumpers etc.",
         "code": "024",
@@ -622,7 +622,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 25,
         "name": "Tipper",
         "code": "025",
@@ -641,7 +641,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 26,
         "name": "Fire Brigade",
         "code": "026",
@@ -660,7 +660,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 27,
         "name": "Tractor",
         "code": "027",
@@ -679,7 +679,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 28,
         "name": "Car",
         "code": "028",
@@ -698,7 +698,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 29,
         "name": "Boat",
         "code": "029",
@@ -736,7 +736,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 31,
         "name": "Inverters",
         "code": "031",
@@ -755,7 +755,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 32,
         "name": "UPS",
         "code": "032",
@@ -774,7 +774,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 33,
         "name": "Plotters",
         "code": "033",
@@ -812,7 +812,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 35,
         "name": "computers and peripherals",
         "code": "035",
@@ -831,7 +831,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 36,
         "name": "Furniture",
         "code": "036",
@@ -875,7 +875,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 37,
         "name": "Fittings ",
         "code": "037",
@@ -894,7 +894,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 38,
         "name": "electrical appliances",
         "code": "038",
@@ -913,7 +913,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 39,
         "name": "Fixtures",
         "code": "039",
@@ -957,7 +957,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 40,
         "name": "Computer software Licences",
         "code": "040",
@@ -976,7 +976,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 41,
         "name": "NOC",
         "code": "041",
@@ -995,7 +995,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 42,
         "name": "Land",
         "code": "042",
@@ -1111,7 +1111,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 43,
         "name": "Open Land",
         "code": "043",
@@ -1227,7 +1227,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 44,
         "name": "Play ground",
         "code": "044",
@@ -1343,7 +1343,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 45,
         "name": "Open Market",
         "code": "045",
@@ -1459,7 +1459,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 46,
         "name": "Dumping Ground",
         "code": "046",
@@ -1575,7 +1575,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 47,
         "name": "Lakes and ponds",
         "code": "047",
@@ -1691,7 +1691,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 48,
         "name": "Open Space",
         "code": "048",
@@ -1807,7 +1807,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 49,
         "name": "Land with Encroachments",
         "code": "049",
@@ -1923,7 +1923,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 50,
         "name": "Open Theatre",
         "code": "050",
@@ -2039,7 +2039,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 51,
         "name": "Sewerage",
         "code": "051",
@@ -2099,7 +2099,7 @@
         "id": 144,
         "code": 144,
         "isAssetAllow": true,
-        "tenantId": "default"
+        "tenantId": "mh"
       },
       {
         "depreciationMethod": "Straight Line method",
@@ -2118,10 +2118,10 @@
         "id": 146,
         "code": 146,
         "isAssetAllow": true,
-        "tenantId": "default"
+        "tenantId": "mh"
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 90,
         "name": "Trucks",
         "code": "090",
@@ -2140,7 +2140,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 91,
         "name": "Dumpers-1",
         "code": "091",
@@ -2175,7 +2175,7 @@
         "id": 148,
         "code": 148,
         "isAssetAllow": true,
-        "tenantId": "default"
+        "tenantId": "mh"
       },
       {
         "depreciationMethod": "Straight Line method",
@@ -2194,7 +2194,7 @@
         "id": 149,
         "code": 149,
         "isAssetAllow": true,
-        "tenantId": "default"
+        "tenantId": "mh"
       },
       {
         "depreciationMethod": "Straight Line method",
@@ -2213,7 +2213,7 @@
         "id": 150,
         "code": 150,
         "isAssetAllow": true,
-        "tenantId": "default"
+        "tenantId": "mh"
       },
       {
         "depreciationMethod": "Straight Line method",
@@ -2232,7 +2232,7 @@
         "id": 151,
         "code": 151,
         "isAssetAllow": true,
-        "tenantId": "default"
+        "tenantId": "mh"
       },
       {
         "depreciationMethod": "Straight Line method",
@@ -2251,7 +2251,7 @@
         "id": 152,
         "code": 152,
         "isAssetAllow": true,
-        "tenantId": "default"
+        "tenantId": "mh"
       },
       {
         "depreciationMethod": "Straight Line method",
@@ -2270,10 +2270,10 @@
         "id": 153,
         "code": 153,
         "isAssetAllow": true,
-        "tenantId": "default"
+        "tenantId": "mh"
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 154,
         "name": "Public Lighting",
         "code": 154,
@@ -2292,7 +2292,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 155,
         "name": "Public Lighting",
         "code": 155,
@@ -2311,7 +2311,7 @@
         "assetFieldsDefination": null
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 156,
         "name": "Roads and Bridges",
         "code": 156,
@@ -2451,7 +2451,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 157,
         "name": "Roads and Bridges",
         "code": 157,
@@ -2591,7 +2591,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 158,
         "name": "Roads and Bridges",
         "code": 158,
@@ -2731,7 +2731,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 159,
         "name": "Roads and Bridges",
         "code": 159,
@@ -2871,7 +2871,7 @@
         ]
       },
       {
-        "tenantId": "default",
+        "tenantId": "mh",
         "id": 160,
         "name": "Roads and Bridges",
         "code": 160,

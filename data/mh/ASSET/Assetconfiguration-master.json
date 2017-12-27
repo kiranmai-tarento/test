@@ -1,5 +1,5 @@
 {
-  "tenantId": "default",
+  "tenantId": "mh",
   "moduleName": "ASSET",
   "Assetconfiguration": [
         
@@ -7,7 +7,7 @@
       "id": 1,
       "keyname": "EnableVoucherGeneration",
       "description": "Enable or Disable voucher generation for asset revaluation,disposal and depreciation",
-      "tenantid": "default",
+      "tenantid": "mh",
       "values": [
         {
           "value": "false",
@@ -19,7 +19,7 @@
       "id": 2,
       "keyname": "AssetRevaluationVoucherName",
       "description": "Voucher Name for Asset Revaluation",
-      "tenantid": "default",
+      "tenantid": "mh",
       "values": [
         {
           "value": "Asset Revaluation",
@@ -31,7 +31,7 @@
       "id": 3,
       "keyname": "AssetRevaluationVoucherDescription",
       "description": "Voucher Description for Asset Revaluation",
-      "tenantid": "default",
+      "tenantid": "mh",
       "values": [
         {
           "value": "Asset Revaluation Journal Voucher",
@@ -43,7 +43,7 @@
       "id": 4,
       "keyname": "AssetDisposalVoucherName",
       "description": "Voucher Name for Asset Disposal or Sale",
-      "tenantid": "default",
+      "tenantid": "mh",
       "values": [
         {
           "value": "Asset Disposal or Sale",
@@ -55,7 +55,7 @@
       "id": 5,
       "keyname": "AssetDisposalVoucherDescription",
       "description": "Voucher Description for Asset Disposal or Sale",
-      "tenantid": "default",
+      "tenantid": "mh",
       "values": [
         {
           "value": "Asset Disposal or Sale Journal Voucher",
@@ -67,7 +67,7 @@
       "id": 6,
       "keyname": "AssetDefaultCapitalizedValue",
       "description": "Asset Default Capitalized Value",
-      "tenantid": "default",
+      "tenantid": "mh",
       "values": [
         {
           "value": "1",
@@ -79,7 +79,7 @@
       "id": 7,
       "keyname": "AssetMinimumValue",
       "description": "Asset Minimum Value",
-      "tenantid": "default",
+      "tenantid": "mh",
       "values": [
         {
           "value": "5000",
@@ -91,7 +91,7 @@
       "id": 8,
       "keyname": "DepreciationSeparationDate",
       "description": "Asset Depreciation Separation Date",
-      "tenantid": "default",
+      "tenantid": "mh",
       "values": [
         {
           "value": "9/30/23/59/59",
@@ -103,7 +103,7 @@
       "id": 9,
       "keyname": "AssetDepreciationVoucherName",
       "description": "Voucher Name for Asset Depreciation",
-      "tenantid": "default",
+      "tenantid": "mh",
       "values": [
         {
           "value": "Asset Depreciation",
@@ -115,7 +115,7 @@
       "id": 10,
       "keyname": "AssetDepreciationVoucherDescription",
       "description": "Voucher Description for Asset Depreciation",
-      "tenantid": "default",
+      "tenantid": "mh",
       "values": [
         {
           "value": "Asset Depreciation Journal Voucher",
@@ -127,7 +127,7 @@
       "id": 11,
       "keyname": "AssetBatchSize",
       "description": "Asset Batch Size",
-      "tenantid": "default",
+      "tenantid": "mh",
       "values": [
         {
           "value": "500",
@@ -139,7 +139,7 @@
       "id": 12,
       "keyname": "DepreciationCFactor",
       "description": "Depreciation Multiple Factor For Half Financial Year",
-      "tenantid": "default",
+      "tenantid": "mh",
       "values": [
         {
           "value": "0.5",
