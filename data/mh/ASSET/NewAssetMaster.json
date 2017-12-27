@@ -1,0 +1,1 @@
+{"NewAssetMaster":[{"values":[{"effectivefrom":1509950058,"value":"false"}],"tenantid":"mh","description":"Enable or Disable voucher generation for asset revaluation,disposal and depreciation","keyname":"EnableVoucherGeneration","id":13}],"tenantId":"mh","moduleName":"ASSET"}
