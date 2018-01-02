@@ -1,0 +1,184 @@
+{
+  "ASSET": {
+    "AssetCategory": {
+      "masterName": "AssetCategory",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.id",
+        "$.tenantId"
+      ]
+    },
+     "LayerType": {
+      "masterName": "LayerType",
+      "moduleDefinition": "null",
+      "uniqueKeys": [
+        "$.id",
+        "$.tenantId"
+      ]
+    }
+  },
+  "lcms": {
+    "court": {
+      "masterName": "court",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "side": {
+      "masterName": "side",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "caseType": {
+      "masterName": "caseType",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "caseCategory": {
+      "masterName": "caseCategory",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "bench": {
+      "masterName": "bench",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "caseStatus": {
+      "masterName": "caseStatus",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    }
+  },
+  "swm": {
+    "VehicleType": {
+      "masterName": "VehicleType",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "FuelType": {
+      "masterName": "FuelType",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "OilCompany": {
+      "masterName": "OilCompany",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "WasteType": {
+      "masterName": "WasteType",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "WasteSubType": {
+      "masterName": "WasteSubType",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "DumpingGround": {
+      "masterName": "DumpingGround",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "ProcessingSite": {
+      "masterName": "ProcessingSite",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "ShiftType": {
+      "masterName": "ShiftType",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "Shift": {
+      "masterName": "Shift",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "CollectionType": {
+      "masterName": "CollectionType",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "Population": {
+      "masterName": "Population",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "Toilet": {
+      "masterName": "Toilet",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "SwmProcess": {
+      "masterName": "SwmProcess",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "PaymentTerms": {
+      "masterName": "PaymentTerms",
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.label",
+        "$.tenantId"
+      ]
+    }
+  }
+}
