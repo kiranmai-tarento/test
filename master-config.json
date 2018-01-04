@@ -5,6 +5,12 @@
      "uniqueKeys": [
        "$.id"
      ]
+   },
+     "actions-test123": {
+     "masterName": "actions-test123",
+     "uniqueKeys": [
+       "$.id"
+     ]
    }
  },
  "ACCESSCONTROL-ROLES": {
