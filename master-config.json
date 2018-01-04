@@ -2,12 +2,14 @@
   "ACCESSCONTROL-ACTIONS-TEST": {
    "actions-test": {
      "masterName": "actions-test",
+     "isStateLevel" : true,
      "uniqueKeys": [
        "$.id"
      ]
    },
      "actions-test123": {
      "masterName": "actions-test123",
+     "isStateLevel" : true,
      "uniqueKeys": [
        "$.id"
      ]
@@ -16,6 +18,7 @@
  "ACCESSCONTROL-ROLES": {
    "roles": {
      "masterName": "roles",
+     "isStateLevel" : true,
      "uniqueKeys": [
        "$.code"
      ]
@@ -24,6 +27,7 @@
  "ACCESSCONTROL-ROLEACTIONS": {
    "roleactions": {
      "masterName": "roleactions",
+     "isStateLevel" : false,
      "uniqueKeys": [
        "$.rolecode",
        "$.actionid",
@@ -34,6 +38,7 @@
   "ASSET": {
     "AssetCategory": {
       "masterName": "AssetCategory",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.id",
@@ -42,6 +47,7 @@
     },
      "LayerType": {
       "masterName": "LayerType",
+       "isStateLevel" : true,
       "moduleDefinition": "null",
       "uniqueKeys": [
         "$.id",
@@ -52,6 +58,7 @@
   "lcms": {
     "court": {
       "masterName": "court",
+      "isStateLevel" : false,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -60,6 +67,7 @@
     },
     "side": {
       "masterName": "side",
+      "isStateLevel" : false,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -68,6 +76,7 @@
     },
     "caseType": {
       "masterName": "caseType",
+      "isStateLevel" : false,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -76,6 +85,7 @@
     },
     "caseCategory": {
       "masterName": "caseCategory",
+      "isStateLevel" : false,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -84,6 +94,7 @@
     },
     "bench": {
       "masterName": "bench",
+      "isStateLevel" : false,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -92,6 +103,7 @@
     },
     "caseStatus": {
       "masterName": "caseStatus",
+      "isStateLevel" : false,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -102,6 +114,7 @@
   "swm": {
     "VehicleType": {
       "masterName": "VehicleType",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -110,6 +123,7 @@
     },
     "FuelType": {
       "masterName": "FuelType",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -118,6 +132,7 @@
     },
     "OilCompany": {
       "masterName": "OilCompany",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -126,6 +141,7 @@
     },
     "WasteType": {
       "masterName": "WasteType",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -134,6 +150,7 @@
     },
     "WasteSubType": {
       "masterName": "WasteSubType",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -142,6 +159,7 @@
     },
     "DumpingGround": {
       "masterName": "DumpingGround",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -150,6 +168,7 @@
     },
     "ProcessingSite": {
       "masterName": "ProcessingSite",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -158,6 +177,7 @@
     },
     "ShiftType": {
       "masterName": "ShiftType",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -166,6 +186,7 @@
     },
     "Shift": {
       "masterName": "Shift",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -174,6 +195,7 @@
     },
     "CollectionType": {
       "masterName": "CollectionType",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -182,6 +204,7 @@
     },
     "Population": {
       "masterName": "Population",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -190,6 +213,7 @@
     },
     "Toilet": {
       "masterName": "Toilet",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.code",
@@ -199,6 +223,7 @@
     "SwmProcess": {
       "masterName": "SwmProcess",
       "moduleDefinition": null,
+      "isStateLevel" : true,
       "uniqueKeys": [
         "$.code",
         "$.tenantId"
@@ -206,6 +231,7 @@
     },
     "PaymentTerms": {
       "masterName": "PaymentTerms",
+      "isStateLevel" : true,
       "moduleDefinition": null,
       "uniqueKeys": [
         "$.label",
