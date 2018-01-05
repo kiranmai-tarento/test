@@ -7,6 +7,13 @@
        "$.id"
      ]
    },
+    "new-master" : {
+     "masterName": "new-master",
+     "isStateLevel" : true,
+     "uniqueKeys": [
+       "$.id"
+     ]
+    },
      "actions-test123": {
      "masterName": "actions-test123",
      "isStateLevel" : true,
