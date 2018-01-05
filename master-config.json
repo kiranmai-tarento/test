@@ -47,7 +47,14 @@
        "$.actionid",
        "$.tenantid"
      ]
-   }
+   },
+    "new-master123" : {
+     "masterName": "new-master123",
+     "isStateLevel" : false,
+     "uniqueKeys": [
+       "$.id"
+     ]
+    }
  },
   "ASSET": {
     "AssetCategory": {
