@@ -66,6 +66,15 @@
         "$.tenantId"
       ]
     },
+     "ModeOfAcquisition": {
+      "masterName": "ModeOfAcquisition",
+      "isStateLevel" : true,
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.id",
+        "$.tenantId"
+      ]
+    },
      "LayerType": {
       "masterName": "LayerType",
        "isStateLevel" : true,
