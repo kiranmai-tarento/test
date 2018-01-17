@@ -91,7 +91,7 @@
       "isStateLevel" : false,
       "moduleDefinition": null,
       "uniqueKeys": [
-        "$.boundary.code"
+        "$.*.boundary.code"
       ]
     }
   },
